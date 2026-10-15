@@ -2,3 +2,5 @@
 .DS_Store
 .env
 secret/
+config/db.local.php
+database/setup_angsila.sql
